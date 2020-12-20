@@ -1,1 +1,1 @@
-# MTI Introduction to Computational Thinking 18.S191
+# MIT Introduction to Computational Thinking 18.S191
